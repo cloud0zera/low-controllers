@@ -1,0 +1,24 @@
+{
+    "name": "low-controllers",
+    "version": "1.0.0",
+    "description": "Controladores para o framework LoW",
+    "main": "lowController.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cloud0zera/low-controllers.git"
+    },
+    "keywords": [
+      "low",
+      "controllers",
+      "framework"
+    ],
+    "author": "Seu Nome",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/cloud0zera/low-controllers/issues"
+    },
+    "homepage": "https://github.com/cloud0zera/low-controllers#readme"
+  }  
